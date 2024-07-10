@@ -1,6 +1,6 @@
 # proekt za online magazin
 replit live demo: https://replit.com/@swx8gg0/ProektOnlineMagazin#main.py
-code da vidite: 
+кодът на задачата:
 
 
 import uuid
