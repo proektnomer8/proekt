@@ -1,4 +1,4 @@
-# proekt za online magazin
+# проект за онлайн магазин
 replit live demo: https://replit.com/@swx8gg0/ProektOnlineMagazin#main.py
 кодът на задачата:
 
