@@ -2,7 +2,7 @@
 ### replit live demo: https://replit.com/@swx8gg0/ProektOnlineMagazin#main.py
 ### кодът на задачата:
 
-
+```
 import uuid
 from typing import List
 
@@ -331,3 +331,4 @@ if __name__ == "__main__":
         else:
             print("Please enter a number from 1 to 16.")
      
+```
