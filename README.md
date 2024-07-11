@@ -1,6 +1,6 @@
-# проект за онлайн магазин
-### replit live demo: https://replit.com/@swx8gg0/ProektOnlineMagazin#main.py
-### кодът на задачата:
+# Проект за онлайн магазин
+### Replit live demo: https://replit.com/@swx8gg0/ProektOnlineMagazin#main.py
+### Кодът на задачата:
 
 ```
 import uuid
