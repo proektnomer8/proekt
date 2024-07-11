@@ -1,13 +1,13 @@
 # проект за онлайн магазин
-replit live demo: https://replit.com/@swx8gg0/ProektOnlineMagazin#main.py
-кодът на задачата:
+### replit live demo: https://replit.com/@swx8gg0/ProektOnlineMagazin#main.py
+### кодът на задачата:
 
 
 import uuid
 from typing import List
 
 class Product:
-    def __init__(self, Name, Category, Price, StockQuantity, Description):
+     def __init__(self, Name, Category, Price, StockQuantity, Description):
         self.ProductId = str(uuid.uuid4())
         self.Name = Name
         self.Category = Category
